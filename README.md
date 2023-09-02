@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img src=https://www.google.com/url?sa=i&url=https%3A%2F%2Ficones.pro%2Fen%2Fpurple-html-icon-logo-symbol-png%2F&psig=AOvVaw1IQH3naIR-OSFhACo_T_Lf&ust=1693740039735000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOiU58Dni4EDFQAAAAAdAAAAABAE height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 </div>
@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Shubham <br><br>- 🔭 I’m working as Web developer <br>- 📚 I'm currently learning JavaScript <br>- ⚡ In my free time I learn Coding </p>
+<p align="left">I'm Shubham<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
 
 ###
 

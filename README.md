@@ -35,7 +35,7 @@
 ###
 
 <div align="left">
-  <img "https://icones.pro/wp-content/uploads/2021/05/icone-html-violettepng.png" height="40" alt="go logo"  />
+  <img src="https://icones.pro/wp-content/uploads/2021/05/icone-html-violettepng.png" height="40" alt="go logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" alt="rust logo"  />
   <img width="12" />

@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Shubham<br><br>-  📚 I'm currently learning - JavaScript $ React<br>- ⚡ In my free time I like to developing coding skill</p>
+<p align="left">I'm Shubham<br><br>-  📚 I'm currently learning - JavaScript & React<br>- ⚡ In my free time I like to developing coding my skill</p>
 
 ###
 

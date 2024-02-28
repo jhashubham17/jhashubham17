@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://images.pexels.com/photos/6330644/pexels-photo-6330644.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"  />
+  <img height="150" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPkAAACUCAMAAABm+38mAAAAY1BMVEUAAABpaWnh4eGenp7///+ioqJ4eHjp6elsbGzy8vK6urrW1taoqKju7u5KSko2NjaEhIR+fn7Nzc2zs7ONjY2YmJgtLS0WFhY7Ozv5+flZWVnExMQPDw9iYmIaGhonJydDQ0NYd7igAAABOklEQVR4nO3USZODIBCG4QYXXJAoiHHJGP//rxyzzNHL1CRTlXqfC3Q1h/4KRQQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAfufUXZ6bNj+JatXRwUvXuduau/cM9nJf5pnceVNI1P7wZCiz26LjW+Z6PTX1cZC2WqVtcrlaLbIm94iyVmfZPwTby9gXwa1T2G88psk/T/xXVFqXfdBJI4XJRTItZ1/r+t6bOl1VfpmsS3XYpLSizPI5ycuhznyaNuNP8tnMKr33prrxSzln01a2e1kGiWZsPie5q6PVsRdX+1mKJnPVUj/u3KeLaX0w1jXdXi5NrkxVfkpyF4Ze7f/5Hu0rFHLp7TYk9tHLQ5ENm40yJvNeXkOUPMsOX38AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwIFvlH4MEp/U8kMAAAAASUVORK5CYII="  />
 </div>
 
 ###
